@@ -1,0 +1,1 @@
+pip install langchain sentence-transformers chromadb llama-cpp-python langchain_community pypdf
